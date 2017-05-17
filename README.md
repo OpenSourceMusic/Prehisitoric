@@ -1,6 +1,9 @@
 # Prehistoric
 Genre - Chiptune
 
+Song Name: Prehistoric
+Artist: Josh Penn-Pierson
+
 [Youtube Link](https://www.youtube.com/watch?v=lH7dTRAxs70&index=31&list=PLye9mcKwe2zy3KW8uK_3F7HVMjJjdqSqU)
 
 Current Song Version: 1.0
